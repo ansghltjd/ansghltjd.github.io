@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "live server 브라우저 안열림"
+title: "live server 브라우저 안열림 현상 해결방법"
 ---
 
 # live server 실행 시 브라우저가 열리지 않는 현상 해결법
