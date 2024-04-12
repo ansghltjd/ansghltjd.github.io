@@ -10,7 +10,7 @@ title: "[Django] get_context_data() 오버라이딩으로 모델 정의"
 
 여기서 get_context_data() 을 오버라이딩한 다음 몇가지 정보를 추가하는 것으로 모델을 담을수 있다.
 
-예시)
+예시
 ```python
 from .models import Post, Category
 from django.views.generic import ListView
